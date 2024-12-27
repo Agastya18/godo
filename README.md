@@ -66,7 +66,7 @@ Always review the suggested command before executing it, especially for commands
 
 If you encounter any issues:
 
-1. Ensure your `.godo.env` file is correctly set up in your home directory.
+1. Ensure your `.env` file is correctly set up in your home directory.
 2. Check that you have the necessary permissions to execute the `godo` command.
 3. Verify that your Gemini API key is valid and has the necessary permissions.
 
