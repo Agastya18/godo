@@ -3,6 +3,10 @@
 Godo is a command-line tool that uses AI to suggest and execute Linux commands based on natural language descriptions.
 
 
+Uploading Screen Recording 2024-12-27 at 10.02.51 PM.mov…
+
+
+
 ## Installation
 
 1. Ensure you have Go installed on your system. If not, download and install it from [golang.org](https://golang.org/).
