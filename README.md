@@ -3,7 +3,7 @@
 Godo is a command-line tool that uses AI to suggest and execute Linux commands based on natural language descriptions.
 
 
-Uploading Screen Recording 2024-12-27 at 10.02.51 PM.mov…
+
 
 
 
